@@ -1,0 +1,32 @@
+#title {
+  text-align: center;
+}
+
+#title:hover {
+  color: green;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  max-height: 100em;
+  margin: auto;
+  text-align: center;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  margin: 16.2px;
+}
+
+#sources {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
